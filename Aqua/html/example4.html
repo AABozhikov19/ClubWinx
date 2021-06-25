@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" type="text/css" href="../assest/css/example4.css">
+      <script src="../assest/js/login.js"></script>
+    </head>
+<body>
+<div class="login">
+    <form name='form-login'>
+
+        <h1>Registration</h1>
+
+        <label for="name">Email</label>
+        <input type="email" id="name" placeholder="Enter your email here" required>
+
+        <label for="pw">Password</label>
+        <input type="password" id= "pw" placeholder="Enter your password here" required>
+
+        <ul class="helper-text">
+            <li class="length">Must be maximum 8 characters long.</li>
+            <li class="lowercase">Must contain at least 1 letter.</li>
+            <li class="special">Must contain at least one number.</li>
+        </ul>
+        <input id="rgstr_btn" type="submit" value="Submit" onclick="store()"> <!-- add the address of the home page-->
+
+    </form>
+</div>
+
+<body>
+</html>
