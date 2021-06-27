@@ -37,3 +37,9 @@
 ## Site <a name = "site"></a>
 
 This is the main page of our site. In it you can see which animals are endangered in Bulgaria.
+
+
+
+
+
+There are 4 other pages on our site. The first is about water resources. The second is for protected areas. The next is for the solution of water problems and the last is for registration.
