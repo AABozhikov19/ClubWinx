@@ -7,8 +7,17 @@
 
 body {
     overflow-x: hidden;
-    background: #fff;
+    background: #094b65;
     min-height: 100vh;
+}
+
+#mainDiv{
+	background-color: #D3E8F5 ;
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:300px;
+	width:100%;
+	margin-left:-8px;
 }
 
 #header {
@@ -54,29 +63,41 @@ body {
     color: #fff;
 }
 
+h2 {
+    color: white;
+}
+
 .cont {
     position: relative;
   }
   
 .first
 {
-    border-style: groove;
-    border-radius: 20px;
-    border-color: rgb(20, 158, 212);
-    border-width: medium;
-    position: absolute;
-   margin-top: 100px;
+    width:50%;
+	height:200px;
+	margin:auto;
+    margin-top: -100px;
+	background-color:white;
+	box-shadow: 0px 0px 15px 1px #8c8c8c;
     
 }
 .text
 {
-    text-align: center;
+    font-family: 'Comfortaa', cursive;
+	text-align:center;
+    color: black;
+	font-size:20px;
+	padding-top: 25px;
+	padding-left: 80px;
+	padding-right: 80px;
 }
+
+
 .sdiv {
     float: left;
     width: 33.33%;
     padding: 5px;
-    margin-top: 300px;
+    margin-top: 150px;
     margin-left: 12%;
   }
   .fdiv::after {
@@ -85,6 +106,7 @@ body {
     display: table;
   }
   .frdiv {
+      
     float: left;
     width: 33.33%;
     padding: 5px;
@@ -95,4 +117,17 @@ body {
     content: "";
     clear: both;
     display: table;
+  }
+  #bdr
+  {
+     
+      background-color:white;
+	box-shadow: 0px 0px 15px 1px #8c8c8c;
+    height:400px;
+  }
+  .text1
+  {
+    font-family: 'Comfortaa', cursive;
+      color:black;
+      font-size:170% ;
   }
