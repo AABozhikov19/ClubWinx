@@ -98,4 +98,37 @@ div{
 }
 
 
+#informationDiv {
+    background-color: #C1C1C1  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:cover;
+    margin-top: -200px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    padding: 15px;
+    width: 1500px;
+}
+
+.mainInformation {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  .mainInformation > h1, .subInformation {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .subInformation {
+    background: white;
+  }
+  
+  .subInformation > h2 {
+    margin: 4px;
+    font-size: 120%;
+  }
+
+
 
