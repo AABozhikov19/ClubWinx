@@ -36,4 +36,4 @@
 
 ## Site <a name = "site"></a>
 
-
+This is the main page of our site. In it you can see which animals are endangered in Bulgaria.
