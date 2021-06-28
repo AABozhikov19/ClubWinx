@@ -38,7 +38,7 @@
 
 This is the main page of our site. In it you can see which animals are endangered in Bulgaria.
 
-
+![Screenshot 2021-06-28 205703](https://user-images.githubusercontent.com/63719298/123682291-7f074480-d853-11eb-8431-4c4e6bd5b9fd.png)
 
 
 
