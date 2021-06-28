@@ -43,3 +43,4 @@ This is the main page of our site. In it you can see which animals are endangere
 
 
 There are 4 other pages on our site. The first is about water resources. The second is for protected areas. The next is for the solution of water problems and the last is for registration.
+![Screenshot 2021-06-28 205858](https://user-images.githubusercontent.com/63719298/123682462-b4ac2d80-d853-11eb-9f3b-37d1a8bf690d.png)
