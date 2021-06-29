@@ -4,18 +4,11 @@
 
 ## Content
 
-+ [Introduction](#introduction)
 + [Team](#team)
 + [Site](#site)
-
-
-## Introduction <a name = "introduction"></a>
-
-
-
 ## Team	<a name = "team"></a>
 
-**A. Bozhikov** - **Backend Developer**	
+**A. Bozhikov** - **Frontend Developer**	
 
    - **Email**: [***AABozhikov19@codingburgas.bg***](mailto:AABozhikov19@codingburgas.bg)	
    	
@@ -25,7 +18,7 @@
    - **Email**: [***AIBaev18@codingburgas.bg***](mailto:AIBaev18@codingburgas.bg)	
    	
 
-3. **K. Dimitrov** - **Frontend Developer**	
+3. **K. Dimitrov** - **Backend Developer**	
 
    - **Email**: [***KGDimitrov19@codingburgas.bg***](mailto:KGDimitrov19@codingburgas.bg)		
 
