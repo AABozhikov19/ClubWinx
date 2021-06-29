@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" type="text/css" href="../assest/css/signup.css">
+      <link rel="shortcut icon" href="../assest/img/favicon.ico">
+      <title>Club Winx | Регистрация</title>
+      <script src="../assest/js/signup.js"></script>
+    </head>
+<body>
+    <header id="header">
+        <a href="#" class="logo">CW Aqua</a>
+        <ul>
+            <li><a href="../index.html">Начало</a></li>
+            <li><a href="waterResources.html">Водни ресурси</a></li>
+            <li><a href="protectedWaterAreas.html">Защитени местности</a></li>
+            <li><a href="waterProtectionAndSustainableUse.html">Опазване и използване на водите</a></li>
+            <li><a href="protectionOfEndangeredSpecies.html">Опазване на защитени видове</a></li>
+            <li><a href="managementAndSecurityOfProtectedAreas.html">Управление и охрана на защитените територии</a></li>
+            <li><a href="signup.html" class="active">Регистрация</a></li>
+        </ul>
+    </header>
+<div class="login">
+    <form name='form-login'>
+
+        <h1>Registration</h1>
+
+        <label for="name">Email</label>
+        <input type="email" id="name" placeholder="Enter your email here" required>
+
+        <label for="pw">Password</label>
+        <input type="password" id= "pw" placeholder="Enter your password here" required>
+
+        <ul class="helper-text">
+            <li class="length">Must be maximum 8 characters long.</li>
+            <li class="lowercase">Must contain at least 1 letter.</li>
+            <li class="special">Must contain at least one number.</li>
+        </ul>
+        <input id="rgstr_btn" type="submit" value="Submit" onclick="store()"> <!-- add the address of the home page-->
+
+    </form>
+</div>
+
+<body>
+</html>
